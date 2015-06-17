@@ -5,6 +5,8 @@
 
 ※HoGを特徴量としたSVMのモデルを用いています
 
+[サンプル動画](http://lnoveldb.chobi.net/movie/detect_expression)
+
 ### 開発言語
 * C++
 
